@@ -1,3 +1,4 @@
+// Initialize React app with strict mode
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
