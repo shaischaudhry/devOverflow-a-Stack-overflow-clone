@@ -1,3 +1,4 @@
+// Question schema with references to user model
 const mongoose = require('mongoose');
 const commentSchema = require('./comment').schema;
 const answerSchema = require('./answer').schema;
