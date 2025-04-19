@@ -1,3 +1,4 @@
+// MongoDB connection with error handling
 const mongoose = require('mongoose');
 const { MONGODB_URI: url } = require('./utils/config');
 
