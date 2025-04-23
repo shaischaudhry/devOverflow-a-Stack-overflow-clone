@@ -1,3 +1,4 @@
+// User authentication and profile resolvers
 const User = require('../../models/user');
 const Question = require('../../models/question');
 const bcrypt = require('bcrypt');
