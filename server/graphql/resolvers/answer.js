@@ -1,3 +1,4 @@
+// Answer CRUD operation resolvers
 const { UserInputError, AuthenticationError } = require('apollo-server');
 const Question = require('../../models/question');
 const User = require('../../models/user');
