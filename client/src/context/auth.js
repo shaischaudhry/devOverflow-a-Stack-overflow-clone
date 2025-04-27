@@ -1,3 +1,4 @@
+// Authentication context with JWT handling
 import { useReducer, createContext, useContext, useEffect } from 'react';
 import storage from '../utils/localStorage';
 
