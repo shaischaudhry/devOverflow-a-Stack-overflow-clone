@@ -1,3 +1,4 @@
+// GraphQL mutations for user interactions
 import { gql } from '@apollo/client';
 import {
   QUESTION_DETAILS,
