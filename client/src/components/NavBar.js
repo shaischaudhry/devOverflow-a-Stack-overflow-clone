@@ -1,3 +1,4 @@
+// Responsive navigation bar with user menu
 import { useState, useEffect } from 'react';
 import { Link as RouterLink } from 'react-router-dom';
 import { useApolloClient } from '@apollo/client';
