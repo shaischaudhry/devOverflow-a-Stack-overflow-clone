@@ -1,3 +1,3 @@
 # DevOverflow
 
-A developer QA platform built with the MERN stack. 
+A Stack Overflow clone built with the MERN stack and GraphQL. 
