@@ -1,3 +1,4 @@
+// Question card displaying summary information
 import { Link as RouterLink } from 'react-router-dom';
 import PostedByUser from './PostedByUser';
 
