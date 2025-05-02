@@ -1,3 +1,4 @@
+// Form component for submitting answers
 import { useForm } from 'react-hook-form';
 import { Link as RouterLink } from 'react-router-dom';
 import { useMutation } from '@apollo/client';
