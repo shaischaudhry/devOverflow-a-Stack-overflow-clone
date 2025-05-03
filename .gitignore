@@ -28,11 +28,4 @@ yarn-error.log*
 *.swp
 *.swo
 
-# Project specific
-flowchart.jpg
-
-# Commit scripts
-commit_script.sh
-create_commit_plan.sh
-execute_commit_plan.sh
-commit_plan.txt 
+*.sh
