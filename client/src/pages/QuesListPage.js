@@ -1,3 +1,4 @@
+// Question listing page with sorting and filtering
 import { useState, useEffect } from 'react';
 import { useLazyQuery } from '@apollo/client';
 import { GET_QUESTIONS } from '../graphql/queries';
