@@ -1,3 +1,4 @@
+// Custom Material-UI theme configuration
 import { createMuiTheme } from '@material-ui/core/styles';
 
 const customTheme = (darkMode) =>
