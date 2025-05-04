@@ -1,3 +1,4 @@
+// Main app component with routing and theme
 import NavBar from './components/NavBar';
 import ToastNotification from './components/ToastNotification';
 // import Leaderboard from './components/Leaderboard';
